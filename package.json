@@ -1,6 +1,6 @@
 {
-  "name": "react-complete-guide",
-  "homepage": "https://Himanshu-0201.github.io/FoodOrderApp",
+  "name": "order-food",
+  "homepage": "https://psr-mathur.github.io/order-food",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
